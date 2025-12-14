@@ -8,3 +8,8 @@ Highlight any JP word/sentence and open a translation pop up via http://jotoba.d
 - turn on developer mode
 - hit "Add Unpacked" button
 - point to folder
+
+## How to use
+
+- highlight a block of text
+- in rightclick menu, hit "Jotoba Translate"
