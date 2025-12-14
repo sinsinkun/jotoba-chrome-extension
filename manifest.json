@@ -1,0 +1,13 @@
+{
+  "name": "Jotoba Translate",
+  "description": "Quicksearch JP words/sentences through jotoba",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["contextMenus"],
+  "background": {
+    "service_worker": "jtbe.js"
+  },
+  "icons": {
+    "512": "icon.png"
+  }
+}
